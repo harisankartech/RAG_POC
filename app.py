@@ -114,7 +114,7 @@ while(True):
 ##LLM CLIENT
 
     client = Groq(
-        api_key="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"
+        api_key="{{your_api_key}}"
     
     )
 
